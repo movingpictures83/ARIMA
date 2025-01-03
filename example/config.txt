@@ -1,0 +1,2 @@
+Prefix plugins/ARIMA/example/
+Plugin ARIMA inputfile data/los_speed.csv outputfile .
